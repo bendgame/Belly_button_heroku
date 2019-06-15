@@ -1,1 +1,1 @@
-web: guniforn app:app
+web: gunicrn app:app
